@@ -26,6 +26,9 @@ export default {
       waitTimes: '等候时间',
       timesGuide: '乐园时间表',
       flowOperia: '客流预测'
+    },
+    selectDate: {
+      dateformat: 'M月D日'
     }
   }
 }

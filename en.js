@@ -26,6 +26,9 @@ export default {
       waitTimes: 'WaitTimes',
       timesGuide: 'TimesGuide',
       flowOperia: 'FlowOperia'
+    },
+    selectDate: {
+      dateformat: 'M/D'
     }
   }
 }
