@@ -52,6 +52,9 @@ export default {
     dateFormat: {
       monthDay: 'M月D日',
       month: 'M月'
+    },
+    selectDate: {
+      dateformat: 'M月D日'
     }
   }
 }
