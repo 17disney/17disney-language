@@ -4,7 +4,28 @@ export default {
       name: 'Name',
       status: 'Status',
       waitsAvg: 'WaitAvg',
-      trend: 'Trend'
+      waitsMax: 'waitsMax',
+      trend: 'Trend',
+      minute: 'Minutes',
+
+      ticketTrend: 'Ticketing trend',
+      ticketLive: 'Ticketing live',
+
+      forecastflow: 'Forecast flow',
+      forecastTicket: 'Forecast ticket',
+      flowForecast: 'Forecast',
+      historicalWait: 'Historical',
+      parkLive: 'Live',
+
+      attractionWaits: 'Attraction wait-times',
+      miniProgram: 'Mini program',
+      waitsCalendar: 'Waits calendar',
+      waitsTrend: 'Waits trend',
+      ticketTrend: 'Ticket trend'
+    },
+    title: {
+      comingSoon: 'Coming soon',
+      scanMiniProgram: 'WeChat scavenging'
     },
     status: {
       operating: 'Operating',
@@ -14,11 +35,12 @@ export default {
       down: 'Down'
     },
     disneyLand: {
-      shanghai: 'Sahanghai Disneyland',
-      hongkong: 'Hongkong Disneyland',
-      california: 'California Disneyland',
-      paris: 'Paris Disneyland',
-      orlando: 'Orlando DisneyWord'
+      shanghai: 'Sahanghai disneyland',
+      hongkong: 'Hongkong disneyland',
+      california: 'California disneyland',
+      paris: 'Paris disneyland',
+      orlando: 'Orlando disneyWord',
+      tokyo: 'Tokyo disneyWord'
     },
     navbar: {
       dashboard: 'Dashboard',
@@ -26,6 +48,10 @@ export default {
       waitTimes: 'WaitTimes',
       timesGuide: 'TimesGuide',
       flowOperia: 'FlowOperia'
+    },
+    dateFormat: {
+      monthDay: 'DD/MM',
+      month: 'MM'
     }
   }
 }
