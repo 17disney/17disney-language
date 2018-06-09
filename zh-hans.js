@@ -20,8 +20,7 @@ export default {
       attractionWaits: '项目等候时间',
       miniProgram: '小程序',
       waitsCalendar: '等候时间日历',
-      waitsTrend: '等候时间趋势',
-      ticketTrend: '等候时间趋势'
+      waitsTrend: '等候时间趋势'
     },
     title: {
       comingSoon: '敬请期待',

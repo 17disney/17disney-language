@@ -20,8 +20,7 @@ export default {
       attractionWaits: 'Attraction wait-times',
       miniProgram: 'Mini program',
       waitsCalendar: 'Waits calendar',
-      waitsTrend: 'Waits trend',
-      ticketTrend: 'Ticket trend'
+      waitsTrend: 'Waits trend'
     },
     title: {
       comingSoon: 'Coming soon',
