@@ -3,8 +3,8 @@ export default {
     label: {
       name: 'Name',
       status: 'Status',
-      waitsAvg: 'WaitAvg',
-      waitsMax: 'waitsMax',
+      waitsAvg: 'WaitsAvg',
+      waitsMax: 'WaitsMax',
       trend: 'Trend',
       minute: 'Minutes',
 
@@ -39,8 +39,8 @@ export default {
       hongkong: 'Hongkong disneyland',
       california: 'California disneyland',
       paris: 'Paris disneyland',
-      orlando: 'Orlando disneyWord',
-      tokyo: 'Tokyo disneyWord'
+      orlando: 'Orlando disney world',
+      tokyo: 'Tokyo disneyland'
     },
     navbar: {
       dashboard: 'Dashboard',
