@@ -20,7 +20,9 @@ export default {
       attractionWaits: 'Attraction wait-times',
       miniProgram: 'Mini program',
       waitsCalendar: 'Waits calendar',
-      waitsTrend: 'Waits trend'
+      waitsTrend: 'Waits trend',
+
+      timesguide: 'Timesguide'
     },
     title: {
       comingSoon: 'Coming soon',
@@ -31,7 +33,8 @@ export default {
       closed: 'Closed',
       renewal: 'Renewal',
       refurbishment: 'Refurbishment',
-      down: 'Down'
+      down: 'Down',
+      extraMagicHours: 'Extra Magic Hours'
     },
     disneyLand: {
       shanghai: 'Sahanghai disneyland',

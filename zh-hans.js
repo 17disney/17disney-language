@@ -20,7 +20,9 @@ export default {
       attractionWaits: '项目等候时间',
       miniProgram: '小程序',
       waitsCalendar: '等候时间日历',
-      waitsTrend: '等候时间趋势'
+      waitsTrend: '等候时间趋势',
+
+      timesguide: '乐园时间表'
     },
     title: {
       comingSoon: '敬请期待',
@@ -31,7 +33,8 @@ export default {
       closed: '关闭',
       renewal: '计划性维护',
       refurbishment: '计划性维护',
-      down: '暂时关闭'
+      down: '暂时关闭',
+      extraMagicHours: '额外时间'
     },
     disneyLand: {
       shanghai: '上海迪士尼乐园',
