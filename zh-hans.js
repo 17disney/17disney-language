@@ -22,7 +22,8 @@ export default {
       waitsCalendar: '等候时间日历',
       waitsTrend: '等候时间趋势',
 
-      timesguide: '乐园时间表'
+      timesguide: '乐园时间表',
+      forecastTime: '预测时间：'
     },
     title: {
       comingSoon: '敬请期待',

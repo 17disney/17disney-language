@@ -22,7 +22,8 @@ export default {
       waitsCalendar: 'Waits calendar',
       waitsTrend: 'Waits trend',
 
-      timesguide: 'Timesguide'
+      timesguide: 'Timesguide',
+      forecastTime: 'Update: '
     },
     title: {
       comingSoon: 'Coming soon',
