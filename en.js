@@ -8,6 +8,7 @@ export default {
       trend: 'Trend',
       minute: 'Minutes',
 
+      ticketSales: 'Ticket Sales',
       ticketTrend: 'Ticketing trend',
       ticketLive: 'Ticketing live',
 
@@ -16,6 +17,8 @@ export default {
       flowForecast: 'Forecast',
       historicalWait: 'Historical',
       parkLive: 'Live',
+      parkFlow: 'Park Flow',
+      parkIndex: 'Park Index',
 
       attractionWaits: 'Attraction wait-times',
       miniProgram: 'Mini program',
@@ -23,11 +26,16 @@ export default {
       waitsTrend: 'Waits trend',
 
       timesguide: 'Timesguide',
-      forecastTime: 'Update: '
+      forecastTime: 'Update: ',
+      refresh: 'Refresh'
     },
     title: {
       comingSoon: 'Coming soon',
-      scanMiniProgram: 'WeChat scavenging'
+      scanMiniProgram: 'WeChat scavenging',
+      parkOpentime: 'Opening time of Disney Park',
+      buyTickets: 'Buy Tickets',
+      ticketingCalendar: 'Ticketing calendar',
+      ticketingTrend: 'Ticketing trend'
     },
     status: {
       operating: 'Operating',
@@ -38,19 +46,25 @@ export default {
       extraMagicHours: 'Extra Magic Hours'
     },
     disneyLand: {
-      shanghai: 'Sahanghai disneyland',
-      hongkong: 'Hongkong disneyland',
-      california: 'California disneyland',
-      paris: 'Paris disneyland',
-      orlando: 'Orlando disney world',
-      tokyo: 'Tokyo disneyland'
+      name: 'Disney Land',
+      shanghai: 'Sahanghai Disneyland',
+      hongkong: 'Hongkong Disneyland',
+      california: 'California Disneyland',
+      paris: 'Paris Disneyland',
+      orlando: 'Orlando Disney World',
+      tokyo: 'Tokyo Disneyland'
     },
     navbar: {
       dashboard: 'Dashboard',
       explorer: 'Explorer',
       waitTimes: 'WaitTimes',
       timesGuide: 'TimesGuide',
-      flowOperia: 'FlowOperia'
+      flowOperia: 'Flow Operia',
+      about: 'About',
+      aboutUs: 'About us',
+      community: 'Community',
+      related: 'Related',
+      language: 'Language'
     },
     dateFormat: {
       monthDay: 'DD/MM',
