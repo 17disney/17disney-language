@@ -27,7 +27,9 @@ export default {
 
       timesguide: '乐园时间表',
       forecastTime: '预测时间：',
-      refresh: '刷新'
+      refresh: '刷新',
+
+      capacity: '承载量'
     },
     title: {
       comingSoon: '敬请期待',

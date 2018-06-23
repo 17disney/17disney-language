@@ -27,7 +27,8 @@ export default {
 
       timesguide: 'Timesguide',
       forecastTime: 'Update: ',
-      refresh: 'Refresh'
+      refresh: 'Refresh',
+      capacity: 'Capacity'
     },
     title: {
       comingSoon: 'Coming soon',
